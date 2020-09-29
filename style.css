@@ -53,6 +53,15 @@ color:white;
 	text-align:center;
 }
 
+#principal p{
+	
+	color:orange;
+	font-size:20 px;
+	position: absolute;
+	top:100%;
+	left:2%;
+}
+
 #perfil{
 	position: absolute;
 	left:5%;
