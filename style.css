@@ -56,8 +56,9 @@ color:white;
 #perfil{
 	position: absolute;
 	left:5%;
-	top:3%;
+	top:50px;
 	width: 25%;
 	height: 200px;
 	border-radius:60px;
+	border: solid 1px transparent;
 }
