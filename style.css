@@ -14,6 +14,7 @@ color:white;
 	height:12%;
 	opacity:0.9;
 	border-bottom:solid 2px red;
+	z-index: 9000;
 }
 
 #link{
@@ -54,8 +55,9 @@ color:white;
 
 #perfil{
 	position: absolute;
-	left:10%;
-	width: 40%;
-	height: 300px;
-	radius:60px;
+	left:5%;
+	top:3%;
+	width: 25%;
+	height: 200px;
+	border-radius:60px;
 }
