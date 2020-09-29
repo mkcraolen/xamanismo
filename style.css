@@ -52,3 +52,12 @@ color:white;
 	text-align:center;
 }
 
+#perfil{
+	position: absolute;
+	left:10%;
+	width: 40%;
+	height: 300px;
+	radius:60px;
+
+
+}
