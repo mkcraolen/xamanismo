@@ -55,11 +55,11 @@ color:white;
 
 .p{
 	
-	color:orange;
+	color:red;
 	font-size:20px;
 	position: absolute;
-	top:100%;
-	left:2%;
+	top:90%;
+	left:3%;
 }
 
 #perfil{
